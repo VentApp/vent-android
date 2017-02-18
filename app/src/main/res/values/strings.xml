@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Vent</string>
+    <string name="settings_menu_item">Settings</string>
 </resources>
